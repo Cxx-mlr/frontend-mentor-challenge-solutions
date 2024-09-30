@@ -1,0 +1,3 @@
+[submodule "qr-code-component"]
+	path = qr-code-component
+	url = https://github.com/Cxx-mlr/qr-code-component.git
