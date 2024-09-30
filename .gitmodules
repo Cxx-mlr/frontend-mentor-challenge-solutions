@@ -4,3 +4,6 @@
 [submodule "blog-preview-card"]
 	path = blog-preview-card
 	url = https://github.com/Cxx-mlr/blog-preview-card.git
+[submodule "social-links-profile"]
+	path = social-links-profile
+	url = https://github.com/Cxx-mlr/social-links-profile.git
