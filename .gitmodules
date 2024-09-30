@@ -7,3 +7,6 @@
 [submodule "social-links-profile"]
 	path = social-links-profile
 	url = https://github.com/Cxx-mlr/social-links-profile.git
+[submodule "recipe-page"]
+	path = recipe-page
+	url = https://github.com/Cxx-mlr/recipe-page.git
