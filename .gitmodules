@@ -1,3 +1,6 @@
 [submodule "qr-code-component"]
 	path = qr-code-component
 	url = https://github.com/Cxx-mlr/qr-code-component.git
+[submodule "blog-preview-card"]
+	path = blog-preview-card
+	url = https://github.com/Cxx-mlr/blog-preview-card.git
